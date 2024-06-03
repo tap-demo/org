@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: markusjnagel
+spec:
+  profile:
+    displayName: Markus Nagel
+    email: mnagel@redhat.com
+    picture: https://avatars.githubusercontent.com/u/33287465
+  memberOf: []
